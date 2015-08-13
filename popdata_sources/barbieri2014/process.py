@@ -1,15 +1,11 @@
 from oldowan.mtconvert import seq2sites, sites2seq, str2sites
 from oldowan.fasta import fasta
-from oldowan.polymorphism import Polymorphism
 from string import translate
 import pandas as pd
-import numpy as np
-import re
 import sys
 
-sys.path.append('..')
-
-from common import *
+sys.path.append('../../scripts')
+from utils import *
 
 ## load metadata
 metadata = pd.read_csv('metadata.csv', index_col=0)
