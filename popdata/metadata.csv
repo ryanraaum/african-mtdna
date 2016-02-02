@@ -1,0 +1,470 @@
+NewPrefix,GroupName,N,SeqRange,Country,Region,Language Family,Language Subgroup,Latitude,Longitude,Reference,DOIorPMID,Notes
+OmDhofarAA,Dhofar,195,15922-16551,Oman,Arabia,Afro-Asiatic,Semitic,17.072,54.127,Al-Abri et al. 2012,10.1002/ajpa.22131,Lat/Long approximate based on description in paper
+YeMahraAA,Mahra,70,16024-16420,Yemen,Arabia,Afro-Asiatic,Semitic,16.268,52.145,Al-Abri et al. 2012,10.1002/ajpa.22131,Lat/Long approximate based on description in paper
+YeBabAlMandebAA,Bab al-Mandab,30,15882-16569,Yemen,Arabia,Afro-Asiatic,Semitic,13.193,43.753,Al-Abri et al. 2012,10.1002/ajpa.22131,Lat/Long approximate based on description in paper
+KeTurkanaAA,Turkana,24,15882-16569;1-701;,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,3.322,35.48,Al-Abri et al. 2012,10.1002/ajpa.22131,Lat/Long approximate based on description in paper
+SoSomaliAA,Somali,9,15882-16569;1-701;,Somalia,Eastern Africa,Afro-Asiatic,Cushitic,9.607,44.232,Al-Abri et al. 2012,10.1002/ajpa.22131,Lat/Long is northern Somalia; samples were collected from Somalis in Yemen
+BfSamoyaCB,Samoya,16,1-16569,Burkina Faso,Western Africa,Niger-Congo,North-Volta,13.61,-3.116,Barbieri et al. 2012,10.1093/molbev/msr291,Lat/Long approximate based on map in paper
+BfSouthSamoCB,South Samo,34,1-16569,Burkina Faso,Western Africa,Niger-Congo,Mande,12.636,-2.811,Barbieri et al. 2012,10.1093/molbev/msr291,Lat/Long approximate based on map in paper; 5 samples with >10 Ns were dropped
+BfNorthSamoCB,North Samo,33,1-16569,Burkina Faso,Western Africa,Niger-Congo,Mande,13.145,-2.948,Barbieri et al. 2012,10.1093/molbev/msr291,Lat/Long approximate based on map in paper; 2 samples with >10 Ns were dropped
+BfPanaCB,Pana,17,1-16569,Burkina Faso,Western Africa,Niger-Congo,North-Volta,13.23,-3.327,Barbieri et al. 2012,10.1093/molbev/msr291,Lat/Long approximate based on map in paper; 1 sample with >10 Ns was dropped
+BfNunaCB,Nuna,25,1-16569,Burkina Faso,Western Africa,Niger-Congo,North-Volta,11.479,-2.198,Barbieri et al. 2012,10.1093/molbev/msr291,Lat/Long approximate based on map in paper; 1 sample with >10 Ns was dropped
+BfMossiCB,Mossi,30,1-16569,Burkina Faso,Western Africa,Niger-Congo,North-Volta,13.021,-1.142,Barbieri et al. 2012,10.1093/molbev/msr291,Lat/Long approximate based on map in paper; 4 samples with >10 Ns were dropped
+BfMarkaCB,Marka,26,1-16569,Burkina Faso,Western Africa,Niger-Congo,Mande,12.256,-2.862,Barbieri et al. 2012,10.1093/molbev/msr291,Lat/Long approximate based on map in paper; 2 samples with >10 Ns were dropped
+BfLyelaCB,Lyela,34,1-16569,Burkina Faso,Western Africa,Niger-Congo,North-Volta,12.398,-2.472,Barbieri et al. 2012,10.1093/molbev/msr291,Lat/Long approximate based on map in paper; 3 samples with >10 Ns were dropped
+BfKassenaCB,Kassena,24,1-16569,Burkina Faso,Western Africa,Niger-Congo,North-Volta,11.284,-1.063,Barbieri et al. 2012,10.1093/molbev/msr291,Lat/Long approximate based on map in paper; 3 samples with >10 Ns were dropped
+BfBisaCB,Bisa,29,1-16569,Burkina Faso,Western Africa,Niger-Congo,Mande,11.643,-0.616,Barbieri et al. 2012,10.1093/molbev/msr291,Lat/Long approximate based on map in paper; 2 samples with >10 Ns were dropped
+ZmLuyanaCB,Wider_Luyana,106,1-16569,Zambia,Eastern Africa,Niger-Congo,Bantu,-15.189,24.426,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmMbundaCB,Mbunda,67,1-16569,Zambia,Eastern Africa,Niger-Congo,Bantu,-13.678,22.613,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+AoOvimbunduCB,Ovimbundu,60,1-16569,Angola,Southern Africa,Niger-Congo,Bantu,-12.431,14.681,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+AoNyanekaCB,Nyaneka,59,1-16569,Angola,Southern Africa,Niger-Congo,Bantu,-14.95,13.582,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+AoKuvaleCB,Kuvale,53,1-16569,Angola,Southern Africa,Niger-Congo,Bantu,-16.03,13.121,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+XxAfricanCB,Others,49,1-16569,Mixed,Southern Africa,Niger-Congo,Bantu,-15.39,28.084,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmChokweLuchaziCB,ChokweLuchaziLuvale,33,1-16569,Zambia,Eastern Africa,Niger-Congo,Bantu,-13.122,24.008,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmNkoyaCB,Nkoya,32,1-16569,Zambia,Eastern Africa,Niger-Congo,Bantu,-14.147,24.733,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmEastTongaCB,Eastern_Tonga,48,1-16569,Zambia,Eastern Africa,Niger-Congo,Bantu,-16.621,27.557,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmNEZambiaCB,Northeast_Zambia,24,1-16569,Zambia,Eastern Africa,Niger-Congo,Bantu,-11.679,31.007,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+AoNgangelaCB,Ngangela,20,1-16569,Angola,Southern Africa,Niger-Congo,Bantu,-14.036,20.284,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+BwTswanaCB,Tswana,20,1-16569,Botswana,Southern Africa,Niger-Congo,Bantu,-24.627,25.722,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmSubiyaCB,Subiya,20,1-16569,Zambia,Southern Africa,Niger-Congo,Bantu,-17.448,24.573,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmKwamashiCB,Kwamashi,35,1-16569,Zambia,Southern Africa,Niger-Congo,Bantu,-16.228,22.278,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+BwShonaCB,Wider_Shona,20,1-16569,Botswana,Southern Africa,Niger-Congo,Bantu,-21.709,27.887,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmMbukushuCB,Mbukushu,23,1-16569,Zambia,Eastern Africa,Niger-Congo,Bantu,-16.855,22.948,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmShanjoCB,Shanjo,25,1-16569,Zambia,Eastern Africa,Niger-Congo,Bantu,-16.987,23.908,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmLoziCB,Lozi,118,1-16569,Zambia,Eastern Africa,Niger-Congo,Bantu,-14.892,23.36,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+NaDamaraCB,Damara,38,1-16569,Namibia,Southern Africa,Khoesan,Khoe,-20.041,16.724,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmFweCB,Fwe,33,1-16569,Zambia,Eastern Africa,Niger-Congo,Bantu,-16.389,23.224,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+NaHereroCB,Herero,30,1-16569,Namibia,Southern Africa,Niger-Congo,Bantu,-21.315,19.339,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+ZmTotelaCB,Totela,29,1-16569,Zambia,Eastern Africa,Niger-Congo,Bantu,-16.519,24.894,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+NaHimbaCB,Himba,21,1-16569,Namibia,Southern Africa,Niger-Congo,Bantu,-18.756,14.22,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+BwKgalagadiCB,Kgalagadi,19,1-16569,Botswana,Southern Africa,Niger-Congo,Bantu,-25.185,22.723,Barbieri et al. 2014,10.1371/journal.pone.0099117,Lat/Long approximate based on data in paper and Ethnologue
+KeTaitaKB,Taita,157,16024-16383,Kenya,Eastern Africa,Niger-Congo,Bantu,-3.41,38.37,Batai et al. 2013,10.1002/ajpa.22227,Lat/Long approximate based on map in paper
+KeMijikendaKB,Mijikenda,195,16024-16383,Kenya,Eastern Africa,Niger-Congo,Bantu,-3.86,39.47,Batai et al. 2013,10.1002/ajpa.22227,Lat/Long approximate based on map in paper
+CgBambengaCB,Bambenga,23,1-16569,Congo-Brazzaville,Central Africa,Niger-Congo,Bantu,-3.925,14.975,Batini et al. 2011,10.1093/molbev/msq294,Lat/Long approximate based on map in paper
+CmBakaCB,BakaC,27,1-16569,Cameroon,Central Africa,Niger-Congo,South-Volta,3.835,14.942,Batini et al. 2011,10.1093/molbev/msq294,Lat/Long approximate based on map in paper
+GaBakaCB,BakaG,20,1-16569,Gabon,Central Africa,Niger-Congo,South-Volta,1.75,12.744,Batini et al. 2011,10.1093/molbev/msq294,Lat/Long approximate based on map in paper
+CmBakolaCB,Bakola,11,1-16569,Cameroon,Central Africa,Niger-Congo,Bantu,3.572,10.174,Batini et al. 2011,10.1093/molbev/msq294,Lat/Long approximate based on map in paper
+CfBiakaCB,Biaka,23,1-16569,CAR,Central Africa,Niger-Congo,Bantu,5.499,16.469,Batini et al. 2011,10.1093/molbev/msq294,Lat/Long approximate based on map in paper
+CfMbenzeleCB,Mbenzele,30,1-16569,CAR,Central Africa,Niger-Congo,Bantu,4.131,15.985,Batini et al. 2011,10.1093/molbev/msq294,Lat/Long approximate based on map in paper
+CdMbutiCEPHCB,MbutiCEPH,14,1-16569,DRC,Central Africa,Niger-Congo,Bantu,2.191,30.115,Batini et al. 2011,10.1093/molbev/msq294,Lat/Long approximate based on map in paper
+CdMbutiCB,Mbuti,21,1-16569,DRC,Central Africa,Niger-Congo,Bantu,2.092,29.016,Batini et al. 2011,10.1093/molbev/msq294,Lat/Long approximate based on map in paper
+GaFangCB,Fang,17,1-16569,Gabon,Central Africa,Niger-Congo,Bantu,1.741,11.565,Batini et al. 2011,10.1093/molbev/msq294,Lat/Long approximate based on map in paper
+GaNzebiCB,Nzebi,19,1-16569,Gabon,Central Africa,Niger-Congo,Bantu,-1.223,12.441,Batini et al. 2011,10.1093/molbev/msq294,Lat/Long approximate based on map in paper
+AoCabindaSB,Cabinda,110,16024-16400;73-340,Angola,Southern Africa,Niger-Congo,Bantu,-5.617,12.216,Beleza et al. 2005,10.1007/s00439-005-1290-3,Lat/Long is Cabinda
+EtDawroKontaAB,Dawro-Konta,137,16024-16390,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,7.08454,37.16676,Boattini et al. 2013,10.1002/ajpa.22212,
+EtOngotaAB,Ongota,19,16024-16390,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,4.83278,36.98167,Boattini et al. 2013,10.1002/ajpa.22212,
+EtHamerAB,Hamer,11,16024-16390,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,4.96667,36.48333,Boattini et al. 2013,10.1002/ajpa.22212,
+KeRendilleAB,Rendille,17,16024-16390,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,2.80588,37.46613,Boattini et al. 2013,10.1002/ajpa.22212,
+KeElMoloAB,Elmolo,52,16024-16390,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,2.74827,36.71906,Boattini et al. 2013,10.1002/ajpa.22212,
+KeLuoAB,Luo,49,16024-16390,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,-0.53832,34.4751,Boattini et al. 2013,10.1002/ajpa.22212,
+KeMaasaiAB,Maasai,81,16024-16390,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,0.70036,36.85089,Boattini et al. 2013,10.1002/ajpa.22212,
+KeSamburuAB,Samburu,35,16024-16390,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,1.25783,37.06512,Boattini et al. 2013,10.1002/ajpa.22212,
+KeTurkanaAB,Turkana,51,16024-16390,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,4.46691,35.11231,Boattini et al. 2013,10.1002/ajpa.22212,
+KeNairobiAB,Nairobi,100,16024-16569;1-576,Kenya,Eastern Africa,Mixed,Mixed,-1.28668,36.82162,Brandstaetter et al. 2004,10.1007/s00414-004-0466-z,"5 samples (040, 050, 059, 060, 084) have unstable runs of Cs at position 573."
+CvBravaAB,Brava,9,16025-16389,Cape Verde,Western Africa,Non-African,Non-African,14.85087,-24.70464,Brehm et al. 2002,10.1017/S0003480001001002,Lat/Long are the approximate center of the island
+CvFogoAB,Fogo,30,16025-16389,Cape Verde,Western Africa,Non-African,Non-African,14.93249,-24.38466,Brehm et al. 2002,10.1017/S0003480001001002,Lat/Long are the approximate center of the island
+CvSantiagoAB,Santiago,133,16025-16389,Cape Verde,Western Africa,Non-African,Non-African,15.08371,-23.62661,Brehm et al. 2002,10.1017/S0003480001001002,Lat/Long are the approximate center of the island
+CvMaioAB,Maio,7,16025-16389,Cape Verde,Western Africa,Non-African,Non-African,15.21361,-23.15282,Brehm et al. 2002,10.1017/S0003480001001002,Lat/Long are the approximate center of the island
+CvBoavistaAB,Boavista,2,16025-16389,Cape Verde,Western Africa,Non-African,Non-African,16.10096,-22.80256,Brehm et al. 2002,10.1017/S0003480001001002,Lat/Long are the approximate center of the island
+CvSalAB,Sal,3,16025-16389,Cape Verde,Western Africa,Non-African,Non-African,16.74363,-22.93372,Brehm et al. 2002,10.1017/S0003480001001002,Lat/Long are the approximate center of the island
+CvSaoNicolauAB,Sao Nicolau,7,16025-16389,Cape Verde,Western Africa,Non-African,Non-African,16.61603,-24.23286,Brehm et al. 2002,10.1017/S0003480001001002,Lat/Long are the approximate center of the island
+CvSaoVincenteAB,Sao Vincente,24,16025-16389,Cape Verde,Western Africa,Non-African,Non-African,16.84224,-24.97581,Brehm et al. 2002,10.1017/S0003480001001002,Lat/Long are the approximate center of the island
+CvSantoAntaoAB,Santo Antao,77,16025-16389,Cape Verde,Western Africa,Non-African,Non-African,17.05636,-25.16669,Brehm et al. 2002,10.1017/S0003480001001002,Lat/Long are the approximate center of the island
+GwBissauMC,Bissau,71,16024-16400;73-395,Guinea-Bissau,Western Africa,Mixed,Mixed,11.88,-15.619,Carvalho et al. 2011,10.1016/j.fsigen.2010.10.007,Lat/Long is Bissau city
+ZwShonaLC,Shona,59,16024-16383,Zimbabwe,Southern Africa,Niger-Congo,Bantu,-17.258,32.246,Castri et al. 2009,10.1002/ajpa.21070,Lat/Long approximate based on map and description in paper
+RwHutuLC,Hutu,42,16024-16383,Rwanda,Eastern Africa,Niger-Congo,Bantu,-1.405,30.166,Castri et al. 2009,10.1002/ajpa.21070,Lat/Long approximate based on map and description in paper
+MlFulaniDiafarabeVC,Fulani Diafarabe,50,16030-16370,Mali,Western Africa,Niger-Congo,Atlantic,14.094,-5.038,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+BfFulaniBanforaVC,Fulani Banfora,50,16030-16370,Burkina Faso,Western Africa,Niger-Congo,Atlantic,10.631,-4.761,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+BfFulaniTindangouVC,Fulani Tindangou,50,16030-16370,Burkina Faso,Western Africa,Niger-Congo,Atlantic,11.701,0.524,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+NeFulaniAbalaVC,Fulani Abala,26,16030-16370,Niger,Western Africa,Niger-Congo,Atlantic,14.926,3.432,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+NeFulaniAderVC,Fulani Ader,50,16030-16370,Niger,Western Africa,Niger-Congo,Atlantic,14.165,5.081,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+NeFulaniBalatungurVC,Fulani Balatungur,23,16030-16370,Niger,Western Africa,Niger-Congo,Atlantic,14.303,13.031,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+NeFulaniDiffaVC,Fulani Diffa,32,16030-16370,Niger,Western Africa,Niger-Congo,Atlantic,13.341,12.574,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+NeFulaniZinderVC,Fulani Zinder,34,16030-16370,Niger,Western Africa,Niger-Congo,Atlantic,13.801,8.987,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+CmFulaniTchebouaVC,Fulani Tcheboua,40,16030-16370,Cameroon,Central Africa,Niger-Congo,Atlantic,9.315,13.325,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+TdFulaniBongorVC,Fulani Bongor,50,16030-16370,Chad,Central Africa,Niger-Congo,Atlantic,10.373,15.454,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+TdFulaniLiniaVC,Fulani Linia,27,16030-16370,Chad,Central Africa,Niger-Congo,Atlantic,12.053,15.341,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+MlSonghaiVC,Songhai,31,16030-16370,Mali,Western Africa,Nilo-Saharan,Songhay,15.788,-3.606,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+NeBudumaVC,Buduma,30,16030-16370,Niger,Western Africa,Afro-Asiatic,Chadic,13.799,13.169,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+NgKanuriVC,Kanuri,59,16030-16370,Nigeria,Western Africa,Nilo-Saharan,Saharan,12.864,12.762,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+TdKanembouVC,Kanembou,50,16030-16370,Chad,Central Africa,Nilo-Saharan,Saharan,13.804,14.493,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+CmBulahayVC,Bulahay,51,16030-16370,Cameroon,Central Africa,Afro-Asiatic,Chadic,12.585,14.289,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+CmFaliVC,Fali,83,16030-16370,Cameroon,Central Africa,Niger-Congo,Atlantic,11.069,14.108,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+CmHideVC,Hide,42,16030-16370,Cameroon,Central Africa,Afro-Asiatic,Chadic,12.456,14.339,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+CmKotokoVC,Kotoko,69,16030-16370,Cameroon,Central Africa,Afro-Asiatic,Chadic,11.042,14.965,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+CmMafaVC,Mafa,55,16030-16370,Cameroon,Central Africa,Afro-Asiatic,Chadic,12.676,14.388,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+CmMasaVC,Masa,41,16030-16370,Cameroon,Central Africa,Afro-Asiatic,Chadic,10.178,14.696,Cerny et al. 2011,10.1093/molbev/msr067,Lat/Long approximate based on map and description in text
+ZaKungYC,Vasikela !Kung,43,15998-16482;20-411,South Africa,Southern Africa,Khoesan,!Kung,-27.38019,23.0701,Chen et al. 2000,Lat/Long are approximate based on map in Chen et al. paper,
+ZaKhweYC,Khwe,31,15998-16482;20-411,South Africa,Southern Africa,Khoesan,Khoe,-27.38019,23.0701,Chen et al. 2000,Lat/Long are approximate based on map in Chen et al. paper,
+AoKuvaleMC,Kuvale,54,16024-16400;73-340,Angola,Central Africa,Niger-Congo,Bantu,12.778,-15.058,Coelho et al. 2009,10.1186/1471-2148-9-80,Lat/Long approximate based on map in paper; dropped haplotypes that were not full length
+AoGanguelaMC,Ganguela,21,16024-16400;73-340,Angola,Central Africa,Niger-Congo,Bantu,12.778,-15.058,Coelho et al. 2009,10.1186/1471-2148-9-80,Lat/Long approximate based on map in paper; dropped haplotypes that were not full length
+AoNyanekaNkhumbiMC,Nyaneka-Nkhumbi,151,16024-16400;73-340,Angola,Central Africa,Niger-Congo,Bantu,12.778,-15.058,Coelho et al. 2009,10.1186/1471-2148-9-80,Lat/Long approximate based on map in paper; dropped haplotypes that were not full length
+AoOvimbunduMC,Ovimbundu,91,16024-16400;73-340,Angola,Central Africa,Niger-Congo,Bantu,12.778,-15.058,Coelho et al. 2009,10.1186/1471-2148-9-80,Lat/Long approximate based on map in paper; dropped haplotypes that were not full length
+AoAngolanMC,Angolan,42,16024-16400;73-340,Angola,Central Africa,Niger-Congo,Bantu,12.778,-15.058,Coelho et al. 2009,10.1186/1471-2148-9-80,Lat/Long approximate based on map in paper; dropped haplotypes that were not full length
+CmTaliVC,Tali,15,16024-16383,Cameroon,Central Africa,Niger-Congo,North-Volta,5.579,9.672,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+CmDabaVC,Daba,19,16024-16383,Cameroon,Central Africa,Afro-Asiatic,Chadic,10.032,13.884,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+CmBamilekeVC,Bamileke,48,16024-16383,Cameroon,Central Africa,Niger-Congo,South-Volta,5.206,10.713,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+CmEwondoVC,Ewondo,53,16024-16383,Cameroon,Central Africa,Niger-Congo,Bantu,4.555,11.787,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+CmUldemeVC,Uldeme,28,16024-16383,Cameroon,Central Africa,Afro-Asiatic,Chadic,10.94,14.128,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+CmTupuriVC,Tupuri,25,16024-16383,Cameroon,Central Africa,Niger-Congo,South-Volta,10.16,14.777,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+CmMandaraVC,Mandara,37,16024-16383,Cameroon,Central Africa,Afro-Asiatic,Chadic,10.374,13.808,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+CmFulbeVC,Fulbe,34,16024-16383,Cameroon,Central Africa,Niger-Congo,Atlantic,10.638,14.604,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+CmFaliVC,Fali,83,16024-16383,Cameroon,Central Africa,Niger-Congo,Atlantic,9.645,13.861,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+CmBassaVC,Bassa,46,16024-16383,Cameroon,Central Africa,Niger-Congo,Bantu,4.454,10.162,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+CmBakakaVC,Bakaka,50,16024-16383,Cameroon,Central Africa,Niger-Congo,Bantu,4.97,9.935,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+CmPodokwoVC,Podokwo,39,16024-16383,Cameroon,Central Africa,Afro-Asiatic,Chadic,10.993,14.111,Coia et al. 2005,10.1002/ajpa.20138,Lat/Long is approximate based on ethnologue maps
+ZmBisaCF,Bisa,42,16024-16390;52-397,Zambia,Eastern Africa,Niger-Congo,Bantu,-11.829,31.45,de Filippo et al. 2010,10.1002/ajpa.21155,Lat/Long is approximate based on map and description in text
+ZmKundaCF,Kunda,36,16024-16390;52-397,Zambia,Eastern Africa,Niger-Congo,Bantu,-13.214,31.945,de Filippo et al. 2010,10.1002/ajpa.21155,Lat/Long is approximate based on map and description in text
+CmBamilekeDB,Bamileke,48,16024-16384,Cameroon,Central Africa,Niger-Congo,South-Volta,5.311,10.472,Destro-Bisol et al. 2004,10.1086/381405,
+CmEwondoDB,Ewondo,53,16024-16384,Cameroon,Central Africa,Niger-Congo,Bantu,3.874,11.499,Destro-Bisol et al. 2004,10.1086/381405,
+CfMbenzeleDB,Mbenzele Pygmy,57,16024-16384,CAR,Central Africa,Niger-Congo,Bantu,3.388,16.181,Destro-Bisol et al. 2004,10.1086/381405,
+MlBambaraBE,Bambara,19,16030-16420,Mali,Western Africa,Niger-Congo,Mande,13.329,-6.051,Ely et al. 2006,10.1186/1741-7007-4-34,Lat/Long is approximate based on Ethnologue language map; 15bp insertion reported in BAM 013 at position 16015 was dropped as being out of sequence range
+MlMalinkeBE,Malinke,61,16030-16420,Mali,Western Africa,Niger-Congo,Mande,13.265,-8.973,Ely et al. 2006,10.1186/1741-7007-4-34,Lat/Long is approximate based on Ethnologue language map
+GhAkanLF,Akan,192,16024-16569;1-576,Ghana,Western Africa,Niger-Congo,South-Volta,6.80254,-1.08421,Fendt et al. 2012a,10.1016/j.fsigen.2011.05.011,"Lat/Long are approximate; center of Asante Akim North District, Ashanti Region, Ghana"
+AoXuKhweLF,!Xu/Khwe,129,16024-16569;1-576,Angola,Southern Africa,Khoesan,!Kung,-28.702,24.059,Fendt et al. 2012b,10.1016/j.fsigen.2012.02.010,"Mixed !Xu/Khwe sample; 3 individuals are listed with ""unknown"" ethnicity; pop is identified as being of Angolan origin, but was collected in South Africa"
+UgAcholiVG,Acholi,3,16024-16569;1-576,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,2.765,32.325,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgAlurVG,Alur,21,16049-16430,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,2.518,31.111,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBafumbiraVG,Bafumbira,4,16027-16494,Uganda,Eastern Africa,Niger-Congo,Bantu,-1.265,29.704,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBagandaVG,Baganda,12,16046-16420,Uganda,Eastern Africa,Niger-Congo,Bantu,0.349,32.511,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBagunguVG,Bagungu,25,16079-16440,Uganda,Eastern Africa,Niger-Congo,Bantu,1.683,31.677,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBagwereVG,Bagwere,1,16012-16500,Uganda,Eastern Africa,Niger-Congo,Bantu,1.173,33.747,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBakigaVG,Bakiga,18,16026-16430,Uganda,Eastern Africa,Niger-Congo,Bantu,-1.238,30.007,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBakonzoVG,Bakonzo,1,16012-16500,Uganda,Eastern Africa,Niger-Congo,Bantu,0.277,30.1,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBanyankoleVG,Banyankole,17,16034-16460,Uganda,Eastern Africa,Niger-Congo,Bantu,-0.611,30.572,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBanyarwandaVG,Banyarwanda,6,16035-16493,Uganda,Eastern Africa,Niger-Congo,Bantu,0.941,31.772,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBanyoroVG,Banyoro,16,16080-16443,Uganda,Eastern Africa,Niger-Congo,Bantu,1.411,31.351,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBasamiaVG,Basamia,1,16011-16500,Uganda,Eastern Africa,Niger-Congo,Bantu,0.478,34.081,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBasogaVG,Basoga,2,16034-16459,Uganda,Eastern Africa,Niger-Congo,Bantu,0.621,33.462,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBatoroVG,Batoro,1,16035-16469,Uganda,Eastern Africa,Niger-Congo,Bantu,0.643,30.278,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgBatwaVG,Batwa,5,16026-16419,Uganda,Eastern Africa,Niger-Congo,Bantu,-0.971,29.614,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate
+UgDodothVG,Dodoth,32,16024-16569;1-576,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,3.753,34.015,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate
+UgEthurVG,Ethur,15,16024-16569;1-576,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,3.543,33.665,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate
+UgItesoVG,Iteso,2,16024-16500,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,1.909,33.917,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgJieVG,Jie,22,16024-16569;1-576,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,3.721,33.87,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate
+UgKmjBokoraVG,Karimojong_Bokora,126,16024-16569;1-576,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,2.43,34.425,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate
+UgKmjMathenikoVG,Karimojong_Matheniko,43,16024-16569;1-576,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,2.547,34.647,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate
+UgKmjPianVG,Karimojong_Pian,15,16024-16569;1-576,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,2.016,34.582,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate
+UgLabworVG,Labwor,2,16024-16569;1-576,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,2.687,33.67,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate
+UgLangiVG,Langi,2,16033-16500,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,2.28,32.864,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgLenduVG,Lendu,8,16079-16415,Uganda,Eastern Africa,Nilo-Saharan,Central Sudanic,2.541,30.995,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgLugbaraVG,Lugbara,1,16024-16500,Uganda,Eastern Africa,Nilo-Saharan,Central Sudanic,3.498,31.338,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgLuoVG,Luo,5,16035-16425,Uganda,Eastern Africa,Nilo-Saharan,Eastern Sudanic,3.342,32.853,Gomes et al. 2015,10.1007/s00439-015-1583-0,"Lat/Long here is a bit of a wild guess - there are lots of Luo people in Uganda, but typically one doesn't identify as Luo but as Acholi, Langi, etc."
+UgMadiVG,Madi,1,16000-16500,Uganda,Eastern Africa,Nilo-Saharan,Central Sudanic,3.355,31.754,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate based on ethnic group distribution in Uganda census data
+UgSoVG,So,2,16024-16569;1-576,Uganda,Eastern Africa,Nilo-Saharan,Kuliak,2.459,34.733,Gomes et al. 2015,10.1007/s00439-015-1583-0,Lat/Long is approximate
+MlMalinkeAG,Malinke,31,15880-16569;1-945,Mali,Western Africa,Niger-Congo,Mande,12.64415,-7.94083,Gonzalez et al. 2006,10.1111/j.1469-1809.2006.00259.x,Lat/Long are approximate based on Ethnologue language map; haplotype ids are sequential in original Table 2
+MlBoboAG,Bobo,5,15880-16569;1-945,Mali,Western Africa,Niger-Congo,Mande,12.51012,-4.69986,Gonzalez et al. 2006,10.1111/j.1469-1809.2006.00259.x,Lat/Long are approximate based on Ethnologue language map; haplotype ids are sequential in original Table 2
+MlBambaraAG,Bambara,52,15880-16569;1-945,Mali,Western Africa,Niger-Congo,Mande,11.16607,-6.99601,Gonzalez et al. 2006,10.1111/j.1469-1809.2006.00259.x,Lat/Long are approximate based on Ethnologue language map; haplotype ids are sequential in original Table 2
+MlDogonAG,Dogon,6,15880-16569;1-945,Mali,Western Africa,Niger-Congo,Dogon,14.8477,-3.31559,Gonzalez et al. 2006,10.1111/j.1469-1809.2006.00259.x,Lat/Long are approximate based on Ethnologue language map; haplotype ids are sequential in original Table 2
+MlTuaregAG,Tuareg,1,15880-16569;1-945,Mali,Western Africa,Afro-Asiatic,Berber,18.97753,-0.88761,Gonzalez et al. 2006,10.1111/j.1469-1809.2006.00259.x,Lat/Long are approximate based on Ethnologue language map; haplotype ids are sequential in original Table 2
+MlSonrhaiAG,Sonrhai,6,15880-16569;1-945,Mali,Western Africa,Nilo-Saharan,Songhay,16.76095,-2.92008,Gonzalez et al. 2006,10.1111/j.1469-1809.2006.00259.x,Lat/Long are approximate based on Ethnologue language map; haplotype ids are sequential in original Table 2
+MlPeulAG,Peul,15,15880-16569;1-945,Mali,Western Africa,Niger-Congo,Atlantic,14.41187,-5.27115,Gonzalez et al. 2006,10.1111/j.1469-1809.2006.00259.x,Lat/Long are approximate based on Ethnologue language map; haplotype ids are sequential in original Table 2
+MlSenoufoAG,Senoufo,1,15880-16569;1-945,Mali,Western Africa,Niger-Congo,Atlantic,11.72062,-5.83145,Gonzalez et al. 2006,10.1111/j.1469-1809.2006.00259.x,Lat/Long are approximate based on Ethnologue language map; haplotype ids are sequential in original Table 2
+MlSoninkeAG,Soninke,3,15880-16569;1-945,Mali,Western Africa,Niger-Congo,Mande,14.88487,-11.4235,Gonzalez et al. 2006,10.1111/j.1469-1809.2006.00259.x,Lat/Long are approximate based on Ethnologue language map; haplotype ids are sequential in original Table 2
+SnMandenkaLG,Mandenka,119,16024-16380;40-380,Senegal,Western Africa,Niger-Congo,Mande,12.70671,-12.30543,Graven et al. 1995,7700157,Lat/Long based on map in Blanc et al. (1990); some sequences have missing data
+CmBaggaraJH,Baggara,21,15900-16569;1-640,Cameroon,Central Africa,Afro-Asiatic,Semitic,12.5,14.5,Hirbo 2011,,
+CmGizigaJH,Giziga,26,15900-16569;1-640,Cameroon,Central Africa,Afro-Asiatic,Chadic,10.75,14.25,Hirbo 2011,,
+CmBamounJH,Bamoun,19,15900-16569;1-640,Cameroon,Central Africa,Niger-Congo,South-Volta,5.5,10.8,Hirbo 2011,,
+CmFulaniJH,Fulani,23,15900-16569;1-640,Cameroon,Central Africa,Niger-Congo,Atlantic,10.0,13.0,Hirbo 2011,,
+CmMvaeJH,Mvae,24,15900-16569;1-640,Cameroon,Central Africa,Niger-Congo,Bantu,3.0,12.0,Hirbo 2011,,
+CmBakaJH,Baka,26,15900-16569;1-640,Cameroon,Central Africa,Niger-Congo,Bantu,5.0,13.0,Hirbo 2011,,
+CmBakolaJH,Bakola,22,15900-16569;1-640,Cameroon,Central Africa,Niger-Congo,Bantu,2.75,10.3,Hirbo 2011,,
+CmMedzanJH,Medzan,28,15900-16569;1-640,Cameroon,Central Africa,Niger-Congo,South-Volta,4.5,11.3,Hirbo 2011,,
+CmKanuriJH,Kanuri,27,15900-16569;1-640,Cameroon,Central Africa,Nilo-Saharan,Saharan,11.3,14.3,Hirbo 2011,,
+TdBoulalaJH,Boulala,22,15900-16569;1-640,Chad,Central Africa,Nilo-Saharan,Central Sudanic,14.0,19.0,Hirbo 2011,,
+TdLakaJH,Laka,38,15900-16569;1-640,Chad,Central Africa,Nilo-Saharan,Central Sudanic,8.3,16.3,Hirbo 2011,,
+KeBurjiJH,Burji,27,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,5.6,37.78,Hirbo 2011,,
+KeBoniJH,Boni,30,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,-1.72,41.24,Hirbo 2011,,Lat/Long from thesis is in the ocean - changed
+KeBoranaJH,Borana,54,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,2.21,38.01,Hirbo 2011,,
+KeOrmaJH,Orma,22,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,-2.24,40.09,Hirbo 2011,,Lat/Long from thesis is in the ocean - changed
+KeElMoloJH,El-Molo,26,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,2.5,36.42,Hirbo 2011,,
+KeGabra1JH,Gabra,22,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,2.93,37.63,Hirbo 2011,,
+KeGabra2JH,Gabra,8,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,2.93,37.63,Hirbo 2011,,
+KeGarrehJH,Garreh,24,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,2.3,40.08,Hirbo 2011,,Lat/Long from thesis is in northeastern Uganda rather than eastern Kenya - changed
+KeKonsoJH,Konso,20,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,5.15,37.3,Hirbo 2011,,
+KeRendilleJH,Rendille,29,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,2.3,37.35,Hirbo 2011,,
+KeSanyeJH,Sanye,11,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,-2.37,40.5,Hirbo 2011,,
+KeWataJH,Wata,24,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,3.32,37.07,Hirbo 2011,,
+KeYaakuJH,Yaaku,29,15900-16569;1-640,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,0.24,38.41,Hirbo 2011,,
+KeGikuyuJH,Gikuyu,26,15900-16569;1-640,Kenya,Eastern Africa,Niger-Congo,Bantu,-0.72,37.15,Hirbo 2011,,
+KeLuhyaJH,Luhya,22,15900-16569;1-640,Kenya,Eastern Africa,Niger-Congo,Bantu,0.33,34.77,Hirbo 2011,,
+TzPareJH,Pare,11,15900-16569;1-640,Tanzania,Eastern Africa,Niger-Congo,Bantu,-4.76,38.3,Hirbo 2011,,
+KePareJH,Pare,26,15900-16569;1-640,Kenya,Eastern Africa,Niger-Congo,Bantu,-3.43,37.65,Hirbo 2011,,
+KeTaitaJH,Taita,28,15900-16569;1-640,Kenya,Eastern Africa,Niger-Congo,Bantu,-3.4,38.37,Hirbo 2011,,
+KeTavetaJH,Taveta,18,15900-16569;1-640,Kenya,Eastern Africa,Niger-Congo,Bantu,-3.4,37.68,Hirbo 2011,,
+KeIlNgwesiJH,Il'Laikipiak Il'ngwesi,18,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,0.26,37.08,Hirbo 2011,,
+KeMumonyotJH,Il'Laikipiak Mumonyot,14,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,0.26,37.08,Hirbo 2011,,
+KeKipsigiJH,Kalenjin Kipsigi,6,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,-0.37,35.28,Hirbo 2011,,
+KeNandiJH,Kalenjin Nandi,13,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,0.12,35.18,Hirbo 2011,,
+KeKeiyoJH,Kalenjin Keiyo,5,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,0.75,35.58,Hirbo 2011,,
+KeLuoJH,Luo,25,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,-0.07,34.32,Hirbo 2011,,
+KeMarakwetJH,Marakwet,19,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,0.98,35.57,Hirbo 2011,,
+KeIlchamusJH,Ilchamus,28,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,0.5,36.07,Hirbo 2011,,
+KeOgiekJH,Ogiek,19,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,-0.22,35.49,Hirbo 2011,,
+KePokotJH,Pokot,47,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,0.41,36.05,Hirbo 2011,,
+KeSabaotJH,Sabaot,22,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,0.95,34.62,Hirbo 2011,,
+KeSamburuJH,Samburu,26,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,1.0,36.63,Hirbo 2011,,
+KeSengwerJH,Sengwer,30,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,1.0,35.0,Hirbo 2011,,
+KeTugenJH,Tugen,32,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,0.31,35.52,Hirbo 2011,,
+KeTurkanaJH,Turkana,29,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,3.17,35.67,Hirbo 2011,,
+KeTesoJH,Teso,4,15900-16569;1-640,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,0.72,34.35,Hirbo 2011,,
+ZaSan1JH,San,1,15900-16569;1-640,South Africa,Southern Africa,Khoesan,!Kung,-17.78,15.68,Hirbo 2011,,
+ZaSan2JH,San,2,15900-16569;1-640,South Africa,Southern Africa,Khoesan,!Kung,-17.78,15.68,Hirbo 2011,,
+ZaXhosaJH,Xhosa,14,15900-16569;1-640,South Africa,Southern Africa,Niger-Congo,Bantu,-31.9,26.53,Hirbo 2011,,
+SdBeja1JH,Beja,22,15900-16569;1-640,Sudan,Northern Africa,Afro-Asiatic,Cushitic,19.0,36.0,Hirbo 2011,,
+SdBeja2JH,Beja,29,15900-16569;1-640,Sudan,Northern Africa,Afro-Asiatic,Cushitic,19.0,36.0,Hirbo 2011,,
+SsDinkaJH,Dinka,31,15900-16569;1-640,Sudan,Eastern Africa,Nilo-Saharan,Eastern Sudanic,8.5,28.5,Hirbo 2011,,
+SsNuerJH,Nuer,26,15900-16569;1-640,Sudan,Eastern Africa,Nilo-Saharan,Eastern Sudanic,8.0,32.0,Hirbo 2011,,
+SdNyimanJH,Nyimang,12,15900-16569;1-640,Sudan,Northern Africa,Nilo-Saharan,Eastern Sudanic,15.07,30.45,Hirbo 2011,,
+SsShillukJH,Shilluk,20,15900-16569;1-640,Sudan,Eastern Africa,Nilo-Saharan,Eastern Sudanic,9.54,31.66,Hirbo 2011,,
+TzBurungeJH,Burunge,26,15900-16569;1-640,Tanzania,Eastern Africa,Afro-Asiatic,Cushitic,-5.71,35.97,Hirbo 2011,,
+TzIraqwJH,Iraqw,23,15900-16569;1-640,Tanzania,Eastern Africa,Afro-Asiatic,Cushitic,-3.53,35.37,Hirbo 2011,,
+TzFyomeJH,Fyome,18,15900-16569;1-640,Tanzania,Eastern Africa,Afro-Asiatic,Cushitic,-4.42,35.67,Hirbo 2011,,
+TzHadzaJH,Hadza,19,15900-16569;1-640,Tanzania,Eastern Africa,Khoesan,Hadza,-3.47,35.37,Hirbo 2011,,
+TzSandaweJH,Sandawe,22,15900-16569;1-640,Tanzania,Eastern Africa,Khoesan,Sandawe,-5.39,35.32,Hirbo 2011,,
+TzRangiJH,Rangi,24,15900-16569;1-640,Tanzania,Eastern Africa,Niger-Congo,Bantu,-4.3,35.66,Hirbo 2011,,
+TzTuruJH,Turu,24,15900-16569;1-640,Tanzania,Eastern Africa,Niger-Congo,Bantu,-5.1,35.15,Hirbo 2011,,
+TzAkieJH,Akie,23,15900-16569;1-640,Tanzania,Eastern Africa,Nilo-Saharan,Eastern Sudanic,-5.41,37.04,Hirbo 2011,,
+TzDoroboJH,Dorobo,16,15900-16569;1-640,Tanzania,Eastern Africa,Nilo-Saharan,Eastern Sudanic,-4.5,35.5,Hirbo 2011,,
+TzDatogJH,Datog,28,15900-16569;1-640,Tanzania,Eastern Africa,Nilo-Saharan,Eastern Sudanic,-3.69,35.17,Hirbo 2011,,
+TzMaasaiJH,Maasai,27,15900-16569;1-640,Tanzania,Eastern Africa,Nilo-Saharan,Eastern Sudanic,-4.0,37.0,Hirbo 2011,,
+SlMendeBJ,Mende,55,16001-16480,Sierra Leone,Western Africa,Niger-Congo,Mande,7.96985,-11.42451,Jackson et al. 2005,10.1002/ajpa.20040,Lat/Long approximate based on map in paper
+SlLokoBJ,Loko,32,16001-16480,Sierra Leone,Western Africa,Niger-Congo,Mande,8.49991,-12.49842,Jackson et al. 2005,10.1002/ajpa.20040,Lat/Long approximate based on map in paper
+SlLimbaBJ,Limba,68,16001-16480,Sierra Leone,Western Africa,Niger-Congo,Atlantic,9.02653,-12.10017,Jackson et al. 2005,10.1002/ajpa.20040,Lat/Long approximate based on map in paper
+SlTemneBJ,Temne,120,16001-16480,Sierra Leone,Western Africa,Niger-Congo,Atlantic,9.42234,-11.74861,Jackson et al. 2005,10.1002/ajpa.20040,Lat/Long approximate based on map in paper
+EtTigrayTK,Tigray,53,16024-16365,Ethiopia,Eastern Africa,Afro-Asiatic,Semitic,13.48681,39.46856,Kivisild et al. 2004,10.1086/425161,Lat/Long are approximate based on map in paper
+EtOromoTK,Oromo,33,16024-16365,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,9.09041,36.54653,Kivisild et al. 2004,10.1086/425161,Lat/Long are approximate based on map in paper
+EtAmharaTK,Amhara,120,16024-16365,Ethiopia,Eastern Africa,Afro-Asiatic,Semitic,9.01636,38.76097,Kivisild et al. 2004,10.1086/425161,Lat/Long are approximate based on map in paper
+EtGurageTK,Gurage,21,16024-16365,Ethiopia,Eastern Africa,Afro-Asiatic,Semitic,7.19294,38.59156,Kivisild et al. 2004,10.1086/425161,Lat/Long are approximate based on map in paper
+EtAfarTK,Afar,16,16024-16365,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,9.31224,42.12152,Kivisild et al. 2004,10.1086/425161,Lat/Long are approximate based on map in paper
+EtEthiopianTK,Ethiopia,27,16024-16365,Ethiopia,Eastern Africa,Afro-Asiatic,Mixed,9.01636,38.76097,Kivisild et al. 2004,10.1086/425161,Lat/Long is Addis Ababa; includes all samples with unspecified affiliation and small (<3) ethnic samples
+TzHadzaAK,Hadza,49,16024-16383;1-400,Tanzania,Eastern Africa,Khoesan,Hadza,-3.54697,34.83353,Knight et al. 2003,10.1016/S0960-9822(03)00130-1,Lat/Long are approximate based on Ethnologue map
+TzDatogaAK,Datoga,18,16024-16383;1-400,Tanzania,Eastern Africa,Nilo-Saharan,Eastern Sudanic,-5.21846,34.09813,Knight et al. 2003,10.1016/S0960-9822(03)00130-1,Lat/Long are approximate based on Ethnologue map
+TzIraqwAK,Iraqw,12,16024-16383;1-400,Tanzania,Eastern Africa,Afro-Asiatic,Cushitic,-4.05247,35.37529,Knight et al. 2003,10.1016/S0960-9822(03)00130-1,Lat/Long are approximate based on Ethnologue map
+TzSukumaAK,Sukuma,21,16024-16383;1-400,Tanzania,Eastern Africa,Niger-Congo,Bantu,-3.55198,33.42178,Knight et al. 2003,10.1016/S0960-9822(03)00130-1,Lat/Long are approximate based on Ethnologue map
+EgEgyptianMK,Egyptian,91,16024-16383,Egypt,Northern Africa,Afro-Asiatic,Semitic,27.177,31.184,Krings et al. 1999,10090902,Lat/Long approximate based on map in paper
+SsDinkaMK,Dinka,46,16024-16383,South Sudan,Eastern Africa,Nilo-Saharan,Eastern Sudanic,6.377,30.244,Krings et al. 1999,10090902,Lat/Long approximate based on map in paper
+SdNubianMK,Nubian,82,16024-16383,Sudan,Northern Africa,Nilo-Saharan,Eastern Sudanic,19.603,30.413,Krings et al. 1999,10090902,Lat/Long approximate based on map in paper
+SdNubaMK,Nuba,14,16024-16383,Sudan,Northern Africa,Niger-Congo,Kordofanian,11.987,30.752,Krings et al. 1999,10090902,Lat/Long approximate based on map in paper
+SsNuerMK,Nuer,11,16024-16383,South Sudan,Eastern Africa,Nilo-Saharan,Eastern Sudanic,8.152,31.674,Krings et al. 1999,10090902,Lat/Long approximate based on map in paper
+SsShillukMK,Shilluk,8,16024-16383,South Sudan,Eastern Africa,Nilo-Saharan,Eastern Sudanic,9.52,31.692,Krings et al. 1999,10090902,Lat/Long approximate based on map in paper
+CfBiakaSL,BiakaPygmy,23,1-16569,CAR,Central Africa,Niger-Congo,Bantu,4.0,17.0,Lippold et al. 2014,10.1186/2041-2223-5-13,Lat/Long are as given by HGDP project
+SnMandenkaSL,Mandenka,22,1-16569,Senegal,Western Africa,Niger-Congo,Mande,12.0,-12.0,Lippold et al. 2014,10.1186/2041-2223-5-13,Lat/Long are as given by HGDP project
+CdMbutiSL,MbutiPygmy,13,1-16569,DRC,Central Africa,Niger-Congo,Bantu,1.0,29.0,Lippold et al. 2014,10.1186/2041-2223-5-13,Lat/Long are as given by HGDP project
+NgYorubaSL,Yoruba,22,1-16569,Nigeria,Western Africa,Niger-Congo,South-Volta,8.0,5.0,Lippold et al. 2014,10.1186/2041-2223-5-13,Lat/Long is center of range given by HGDP project
+LsNdebeleSM,Ndebele,33,16040-16519,Lesotho,Southern Africa,Niger-Congo,Bantu,-29.524,28.401,Marks et al. 2014,10.1093/molbev/msu263,Lat/Long approximate based on notes in paper
+LsSothoSM,Sotho,287,16040-16519,Lesotho,Southern Africa,Niger-Congo,Bantu,-29.524,28.401,Marks et al. 2014,10.1093/molbev/msu263,Lat/Long approximate based on notes in paper
+LsThembuSM,Thembu,24,16040-16519,Lesotho,Southern Africa,Niger-Congo,Bantu,-29.524,28.401,Marks et al. 2014,10.1093/molbev/msu263,Lat/Long approximate based on notes in paper
+ZaXhosaSM,Xhosa,54,16040-16519,South Africa,Southern Africa,Niger-Congo,Bantu,-33.925,18.423,Marks et al. 2014,10.1093/molbev/msu263,Lat/Long approximate based on notes in paper
+ZaZuluSM,Zulu,54,16040-16519,South Africa,Southern Africa,Niger-Congo,Bantu,-33.925,18.423,Marks et al. 2014,10.1093/molbev/msu263,Lat/Long approximate based on notes in paper
+NaJuhoansiSM,Ju/Õho‹nsi ,58,16040-16519,Namibia,Southern Africa,Khoesan,!Kung,-19.59,20.503,Marks et al. 2014,10.1093/molbev/msu263,Lat/Long approximate based on notes in paper
+StSaoTomeanEM,Sao Tomean,50,16024-16383,Sao Tome and Principe,Central Africa,Non-African,Non-African,0.32531,6.73035,Mateu et al. 1997,10.1046/j.1469-1809.1997.6160507.x,Lat/Long is city of Sao Tome
+GqBubiEM,Bubi,45,16024-16383,Equatorial Guinea,Central Africa,Niger-Congo,Bantu,3.73901,8.7785,Mateu et al. 1997,10.1046/j.1469-1809.1997.6160507.x,Lat/Long is Malabo
+SoSomaliMM,Somali,190,16024-16569;1-576,Somalia,Eastern Africa,Afro-Asiatic,Cushitic,2.07807,45.31147,Mikkelsen et al. 2012,10.1007/s00414-012-0694-6,Lat/Long is Mogadishu; samples were actually collected from Somali immigrants in Denmark
+CgBatekeVM,Bateke ,53,16024-16383,Congo,Central Africa,Niger-Congo,Bantu,-0.89403,14.84338,Montano et al. 2013,10.1186/1471-2148-13-24,Lat/Long are approximate based on Ethnologue map
+CgBetiVM,Beti,48,16024-16383,Congo,Central Africa,Niger-Congo,Bantu,2.03886,13.65685,Montano et al. 2013,10.1186/1471-2148-13-24,Lat/Long are approximate based on Ethnologue map
+NgTivVM,Tiv,51,16024-16383,Nigeria,Western Africa,Niger-Congo,South-Volta,7.67183,8.76699,Montano et al. 2013,10.1186/1471-2148-13-24,Lat/Long are approximate based on Ethnologue map
+NgIgalaVM,Igala,41,16024-16383,Nigeria,Western Africa,Niger-Congo,South-Volta,7.61518,6.85299,Montano et al. 2013,10.1186/1471-2148-13-24,Lat/Long are approximate based on Ethnologue map
+NgIdomaVM,Idoma,37,16024-16383,Nigeria,Western Africa,Niger-Congo,South-Volta,7.20953,8.13527,Montano et al. 2013,10.1186/1471-2148-13-24,Lat/Long are approximate based on Ethnologue map
+EtEthiopianJewsAN,Ethiopian Jewish,32,16024-16381,Ethiopia,Eastern Africa,Afro-Asiatic,Semitic,12.55506,37.45133,Non et al. 2011,10.1002/ajpa.21360,Lat/Long is in area of reported historical Ethiopian Jewish occupation in Ethiopia; samples are from Beta Israel in Israel
+YeYemeniAN,Yemeni,48,16024-16569;1-429,Yemen,West Asia,Afro-Asiatic,Semitic,14.46571,44.57353,Non et al. 2011,10.1002/ajpa.21360,Lat/Long is central highlands; samples are from all over Yemen
+YeYemeniteJewsAN,Yemenite Jewish,43,16024-16381,Yemen,West Asia,Afro-Asiatic,Semitic,15.35137,44.21583,Non et al. 2011,10.1002/ajpa.21360,Lat/Long is Sana'a; samples are from Yemenite Jews living in Israel
+MzMozambiqueLP,Mozambique,109,16017-16390;73-340,Mozambique,Eastern Africa,Niger-Congo,Bantu,-23.4557,33.60876,Pereira et al. 2001,10.1017/S0003480001008855,Lat/Long is approximate - placed in southern Mozambique because the ethnic groups mentioned in the paper are primarily found in the south 
+MaBerberFP,Berber,18,16019-16390,Morocco,Northern Africa,Afro-Asiatic,Berber,34.95307,-3.99869,Pinto et al. 1996,10.1111/j.1469-1809.1996.tb01195.x,Lat/Long are approximate based on locations given in the paper
+EsCanaryIslandsFP,Canary Islander,52,16019-16390,Spain,Europe,Non-African,Non-African,28.46153,-16.28529,Pinto et al. 1996,10.1111/j.1469-1809.1996.tb01195.x,Lat/Long are approximate based on locations given in the paper
+GqFangFP,Fang,11,16019-16390,Equatorial Guinea,Central Africa,Niger-Congo,Bantu,1.57078,10.45923,Pinto et al. 1996,10.1111/j.1469-1809.1996.tb01195.x,Lat/Long are approximate based on locations given in the paper
+EtAriCP,Ari,117,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,5.69,36.7,Plaster 2011,,
+EtAfarCP,Afar,112,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,11.6,41.36,Plaster 2011,,
+EtAgawCP,Agaw,269,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,11.5,37.95,Plaster 2011,,
+EtAlabaCP,Alaba,110,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,7.32,38.08,Plaster 2011,,
+EtAmharaCP,Amhara,396,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Semitic,9.87,38.66,Plaster 2011,,
+EtAnuakCP,Anuak,108,16019-16400,Ethiopia,Eastern Africa,Nilo-Saharan,Eastern Sudanic,7.95,34.41,Plaster 2011,,
+EtBenaCP,Bena,124,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,5.54,36.73,Plaster 2011,,
+EtBasketoCP,Basketo,113,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,6.44,36.74,Plaster 2011,,
+EtBenchCP,Bench,127,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,7.03,35.54,Plaster 2011,,
+EtBurjiCP,Burji,119,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,5.68,37.75,Plaster 2011,,
+EtBusaCP,Busa,126,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,5.68,37.35,Plaster 2011,,
+EtDiziCP,Dizi,132,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,6.19,35.58,Plaster 2011,,
+EtDirashaCP,Dirasha,108,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,5.81,37.46,Plaster 2011,,
+EtDasanachCP,Dasanach,105,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,5.02,36.22,Plaster 2011,,
+EtDawuroCP,Dawuro,117,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,6.95,37.22,Plaster 2011,,
+EtDorzeCP,Dorze,104,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,6.25,37.56,Plaster 2011,,
+EtGobezeCP,Gobeze,113,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,5.63,37.3,Plaster 2011,,
+EtGedeoCP,Gedeo,122,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,6.35,38.28,Plaster 2011,,
+EtGofaCP,Gofa,111,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,6.02,37.42,Plaster 2011,,
+EtGanjuleCP,Ganjule,109,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,5.89,37.43,Plaster 2011,,
+EtGamoCP,Gamo,209,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,6.17,37.46,Plaster 2011,,
+EtGentaCP,Genta,113,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,5.99,37.48,Plaster 2011,,
+EtGurageCP,Gurage,152,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Semitic,8.16,37.92,Plaster 2011,,
+EtGewadaCP,Gewada,117,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,5.43,37.23,Plaster 2011,,
+EtHadiyaCP,Hadiya,127,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,7.58,37.85,Plaster 2011,,
+EtHamerCP,Hamer,112,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,5.29,36.58,Plaster 2011,,
+EtKefaCP,Kefa,120,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,7.28,35.99,Plaster 2011,,
+EtKembataCP,Kembata,117,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,7.24,37.8,Plaster 2011,,
+EtKontaCP,Konta,107,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,7.17,36.78,Plaster 2011,,
+EtKoreCP,Kore,108,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,5.81,37.58,Plaster 2011,,
+EtKonsoCP,Konso,120,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,5.58,37.4,Plaster 2011,,
+EtMejengerCP,Mejenger,115,16019-16400,Ethiopia,Eastern Africa,Nilo-Saharan,Eastern Sudanic,7.21,35.5,Plaster 2011,,
+EtMashileCP,Mashile,130,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,5.54,37.29,Plaster 2011,,
+EtMaaleCP,Maale,119,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,5.71,36.64,Plaster 2011,,
+EtNuerCP,Nuer,118,16019-16400,Ethiopia,Eastern Africa,Nilo-Saharan,Eastern Sudanic,7.96,33.47,Plaster 2011,,
+EtOromoCP,Oromo,149,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,7.84,37.31,Plaster 2011,,
+EtShekechoCP,Shekecho,125,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,7.23,35.67,Plaster 2011,,
+EtSidamaCP,Sidama,126,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,6.71,38.37,Plaster 2011,,
+EtShekoCP,Sheko,113,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,7.22,35.71,Plaster 2011,,
+EtSomaliCP,Somali,108,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,9.23,42.4,Plaster 2011,,
+EtTigrayCP,Tigray,66,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Semitic,8.93,37.94,Plaster 2011,,
+EtTsemayCP,Tsemay,114,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,5.41,36.94,Plaster 2011,,
+EtWolaytaCP,Wolayta,110,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,6.39,37.41,Plaster 2011,,
+EtYemCP,Yem,108,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,7.85,37.51,Plaster 2011,,
+EtZayseCP,Zayse,111,16019-16400,Ethiopia,Eastern Africa,Afro-Asiatic,Omotic,5.97,37.46,Plaster 2011,,
+AoMbunduSP,Mbundu,41,16024-16391;63-322,Angola,Central Africa,Niger-Congo,Bantu,-8.931,13.572,Plaza et al. 2004,10.1007/s00439-004-1164-0,Lat/Long is near Luanda; Dropped two individuals missing HVR2 data; dropped one non-Mbundu individual (AN9)
+TdDazaEP,Daza,40,15882-16569;1-701,Chad,Central Africa,Nilo-Saharan,Saharan,18.784,20.586,Podgorna et al. 2013,10.1111/ahg.12040,Lat/Long approximate based on description in paper; sample DAZ_40 dropped because seems to be missing half of HVR2
+MgMalagasyMP,Malagasy,168,16024-16569;1-400,Madagascar,Eastern Africa,Non-African,Non-African,-23.351,43.692,Poetsch et al. 2013,10.1038/ejhg.2013.51,Lat/Long is a guess based on the affiliation of the Malagasy co-author; sample includes a variety of Malagasy ethnic groups
+EtDaasanachEP,Daasanach,37,15997-16399;16529-16569;1-413,Ethiopia,Eastern Africa,Afro-Asiatic,Cushitic,4.7918,36.07056,Poloni et al. 2009,10.1111/j.1469-1809.2009.00541.x,Lat/Long are approximate following description and map in paper
+EtNyangatomEP,Nyangatom,73,15997-16399;16529-16569;1-413,Ethiopia,Eastern Africa,Nilo-Saharan,Eastern Sudanic,5.30718,36.13785,Poloni et al. 2009,10.1111/j.1469-1809.2009.00541.x,Lat/Long are approximate following description and map in paper
+KeTurkanaEP,Turkana,6,15997-16399;16529-16569;1-413,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,3.73731,35.55695,Poloni et al. 2009,10.1111/j.1469-1809.2009.00541.x,Lat/Long are approximate following description and map in paper
+GaAkeleQM,Akele,48,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-1.07537,10.63383,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaAtekeQM,Ateke,54,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-1.18521,14.00114,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaBabongoQM,Babongo,45,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-1.85377,12.94233,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+CmBaka1QM,Baka-CC,30,16024-16383,Cameroon,Central Africa,Niger-Congo,Bantu,3.1537,13.97031,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+CmBaka2QM,Baka-CW,58,16024-16383,Cameroon,Central Africa,Niger-Congo,Bantu,2.8081,12.99253,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaBakaQM,Baka-GB,39,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,2.15404,12.69377,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+CmBakolaQM,Bakola,88,16024-16383,Cameroon,Central Africa,Niger-Congo,Bantu,3.37261,10.18028,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaBakoyaQM,Bakoya,31,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,0.99681,13.50264,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaBengaQM,Benga,50,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,0.56839,9.39375,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+CfBiakaQM,Biaka,56,16024-16383,Central African Republic,Central Africa,Niger-Congo,Bantu,4.30835,17.70802,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaDumaQM,Duma,47,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-0.76642,12.65257,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaEshiraQM,Eshira,40,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-2.07199,11.00737,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaEviyaQM,Eviya,38,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-1.13304,10.53495,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+CmEwondoQM,Ewondo,25,16024-16383,Cameroon,Central Africa,Niger-Congo,Bantu,3.49049,11.55357,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+CmFangQM,Fang-CM,39,16024-16383,Cameroon,Central Africa,Niger-Congo,Bantu,2.54151,11.74034,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaFangQM,Fang-GB,66,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-0.05508,10.72172,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaGaloaQM,Galoa,51,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-1.31681,9.67717,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaKotaQM,Kota,56,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-0.12099,12.32709,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaMakinaQM,Makina,45,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,0.71129,11.79535,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+CdMbutiQM,Mbuti,39,16024-16383,Democratic Republic of the Congo,Central Africa,Niger-Congo,Bantu,1.67683,29.52107,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaMitsogoQM,Mitsogo,64,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-1.27858,11.36992,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaNdumuQM,Ndumu,39,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-1.586,13.73718,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+CmNgumbaQM,Ngumba,88,16024-16383,Cameroon,Central Africa,Niger-Congo,Bantu,3.21631,10.3231,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaNzebiQM,Nzebi,63,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-1.18924,12.74567,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaObambaQM,Obamba,47,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-1.39356,14.07649,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaOrunguQM,Orungu,20,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-0.87868,9.06398,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaPunuQM,Punu,52,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-2.95553,11.1392,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+GaShakeQM,Shake,51,16024-16383,Gabon,Central Africa,Niger-Congo,Bantu,-0.31291,13.05202,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+CmTigarQM,Tigar,35,16024-16383,Cameroon,Central Africa,Niger-Congo,Bantu,6.08195,11.48516,Quintana-Murci et al. 2008,10.1073/pnas.0711467105,Lat/Long approximate based on map in paper and Ethnologue
+MaMoroccanJR,Moroccan,32,15997-16399,Morocco,Northern Africa,Afro-Asiatic,Semitic,33.882,-6.791,Rando et al. 1998,10.1046/j.1469-1809.1998.6260531.x,Lat/Long is near Rabat 
+MaBerberJR,Berber,60,15997-16399,Morocco,Northern Africa,Afro-Asiatic,Berber,31.609,-6.854,Rando et al. 1998,10.1046/j.1469-1809.1998.6260531.x,Lat/Long is approximate based on description in paper and ethnologue maps
+EhSaharanJR,Saharan,25,15997-16399,Western Sahara,Northern Africa,Afro-Asiatic,Semitic,27.125,-13.162,Rando et al. 1998,10.1046/j.1469-1809.1998.6260531.x,Lat/Long is Laayoune
+MrMauritanianJR,Mauritanian,30,15997-16399,Mauritania,Western Africa,Afro-Asiatic,Semitic,18.092,-15.804,Rando et al. 1998,10.1046/j.1469-1809.1998.6260531.x,Lat/Long is near Nouakchott
+SnWolofJR,Wolof,48,15997-16399,Senegal,Western Africa,Niger-Congo,Atlantic,14.714,-16.254,Rando et al. 1998,10.1046/j.1469-1809.1998.6260531.x,Lat/Long is approximate based on description in paper and ethnologue maps
+SnSererJR,Serer,23,15997-16399,Senegal,Western Africa,Niger-Congo,Atlantic,13.907,-16.262,Rando et al. 1998,10.1046/j.1469-1809.1998.6260531.x,Lat/Long is approximate based on description in paper and ethnologue maps
+SnSenegaleseJR,Senegalese,50,15997-16399,Senegal,Western Africa,Niger-Congo,Mixed,14.759,-17.2,Rando et al. 1998,10.1046/j.1469-1809.1998.6260531.x,Lat/Long is near Dakar
+MzYaoAS,Yao,10,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-11.6388,37.70666,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzTongaAS,Tonga,20,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-23.31957,34.70739,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzShangaanAS,Shangaan,22,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-22.43897,31.48839,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzChopiAS,Chopi,27,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-24.60459,33.86145,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzChwaboAS,Chwabo,20,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-16.02207,38.06921,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzLomweAS,Lomwe,20,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-16.58094,36.93762,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzMakondeAS,Makonde,19,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-11.59576,39.24475,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzMakhuwaAS,Makhuwa,20,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-14.22979,40.14563,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzNdauAS,Ndau,19,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-20.0224,34.55358,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzNguniAS,Nguni,11,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-14.83597,34.20202,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzNyungweAS,Nyungwe,20,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-17.77748,33.0924,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzNyanjaAS,Nyanja,20,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-13.85677,36.81677,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzRongaAS,Ronga,22,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-25.2919,32.18054,Salas et al. 2002,10.1086/344348,"Lat/Long is approximate based on map in paper; column count in table 2 in paper is wrong - says 21, actual count from the table is 22"
+MzShonaAS,Shona,17,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-19.58827,33.13635,Salas et al. 2002,10.1086/344348,"Lat/Long is approximate based on map in paper; column count in table 2 in paper is wrong - says 18, actual count from the table is 17"
+MzSenaAS,Sena,21,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-18.4666,35.33361,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+MzTswaAS,Tswa,19,16090-16365,Mozambique,Eastern Africa,Niger-Congo,Bantu,-21.82837,34.87219,Salas et al. 2002,10.1086/344348,Lat/Long is approximate based on map in paper
+ZaDumaCS,Duma San,1,15997-16569;57-607,South Africa,Southern Africa,Khoesan,Tuu,-29.793,29.494,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+BwGuiGanaKgalagariCS,"/Gui, //Gana, and Kgalagari",22,15997-16569;57-607,Botswana,Southern Africa,Khoesan,Khoe,-23.435,24.049,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+NaJuhoansiCS,Ju/'hoansi,42,15997-16569;57-607,Namibia,Southern Africa,Khoesan,!Kung,-19.593,20.501,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+ZaKarretjieCS,Karretjie,30,15997-16569;57-607,South Africa,Southern Africa,Khoesan,Tuu,-30.721,25.098,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+ZaKhomaniCS,àKhomani,57,15997-16569;57-607,South Africa,Southern Africa,Khoesan,Tuu,-26.981,20.781,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+NaKhweCS,Khwe,18,15997-16569;57-607,Namibia,Southern Africa,Khoesan,Khoe,-17.955,22.585,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+NaNamaCS,Nama,28,15997-16569;57-607,Namibia,Southern Africa,Khoesan,Khoe,-22.559,17.078,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+BwNaroCS,Naro,2,15997-16569;57-607,Botswana,Southern Africa,Khoesan,Khoe,-21.696,21.646,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+ZaXegwiCS,//Xegwi,3,15997-16569;57-607,South Africa,Southern Africa,Khoesan,Tuu,-26.28,30.212,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+AoXunCS,!Xun,49,15997-16569;57-607,Angola,Central Africa,Khoesan,!Kung,-14.652,17.682,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+ZaCapeColouredCS,Cape Coloured,20,15997-16569;57-607,South Africa,Southern Africa,Mixed,Mixed,-33.635,18.993,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+ZaNorthCapeColoured1CS,Northern Cape Coloured,20,15997-16569;57-607,South Africa,Southern Africa,Mixed,Mixed,-26.981,20.781,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+ZaKarooColouredCS,Karoo Coloured,77,15997-16569;57-607,South Africa,Southern Africa,Mixed,Mixed,-30.721,25.098,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+ZaNorthCapeColoured2CS,Northern Cape Coloured,11,15997-16569;57-607,South Africa,Southern Africa,Mixed,Mixed,-26.981,20.781,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+ZaNorthCapeColoured3CS,Northern Cape Coloured,9,15997-16569;57-607,South Africa,Southern Africa,Mixed,Mixed,-26.981,20.781,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+CdManyangaCS,Manyanga,14,15997-16569;57-607,Democratic Republic of Congo,Central Africa,Niger-Congo,Bantu,-4.914,14.165,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+NaHereroCS,Herero,15,15997-16569;57-607,Namibia,Southern Africa,Niger-Congo,Bantu,-22.559,17.078,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+ZaSothoCS,Sotho,17,15997-16569;57-607,South Africa,Southern Africa,Niger-Congo,Bantu,-26.521,28.056,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,Lat/Long approximate center of Sotho speaker area from Ethnologue
+ZaTswanaCS,Tswana,5,15997-16569;57-607,South Africa,Southern Africa,Niger-Congo,Bantu,-26.353,26.056,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,Lat/Long approximate center of Tswana speaker area from Ethnologue
+ZaSwaziCS,Swazi,5,15997-16569;57-607,South Africa,Southern Africa,Niger-Congo,Bantu,-26.28,30.212,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,
+ZaZulu2CS,Zulu,16,15997-16569;57-607,South Africa,Southern Africa,Niger-Congo,Bantu,-28.764,30.772,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,Lat/Long approximate center of KwaZulu-Natal; guessing that the K is KwaZulu
+ZaXhosaCS,Xhosa,5,15997-16569;57-607,South Africa,Southern Africa,Niger-Congo,Bantu,-32.114,27.103,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,Lat/Long approximate center of Xhosa speaker area from Ethnologue
+ZaZulu1CS,Zulu,15,15997-16569;57-607,South Africa,Southern Africa,Niger-Congo,Bantu,-28.061,30.08,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,Lat/Long approximate center of Zulu speaker area from Ethnologue
+ZaAfrikanerCS,Afrikaner,21,15997-16569;57-607,South Africa,Southern Africa,Non-African,Non-African,-26.196,28.043,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,Lat/Long is Johannesburg
+ZaEuropeanCS,European,11,15997-16569;57-607,South Africa,Southern Africa,Non-African,Non-African,-26.196,28.043,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,Lat/Long is Johannesburg
+ZaIndianCS,Indian,25,15997-16569;57-607,South Africa,Southern Africa,Non-African,Non-African,-26.196,28.043,Schlebusch et al. 2013,10.1016/j.ajhg.2009.10.023,Lat/Long is Johannesburg
+SdSudanPS,Sudanese,102,16024-16400;1-400,Sudan,Northern Africa,Afro-Asiatic,Semitic,15.394,32.594,Soares et al. 2012,10.1093/molbev/msr245,Lat/Long is Khartoum; Sample is Sudanese emigrants in Dubai
+EtEthiopiaPS,Ethiopian,77,16024-16400;1-400,Ethioipia,Eastern Africa,Afro-Asiatic,Mixed,8.99,39.181,Soares et al. 2012,10.1093/molbev/msr245,Lat/Long is near Addis; Sample is Ethiopian emigrants in Dubai
+SoSomaliPS,Somali,148,16024-16400,Somalia,Eastern Africa,Afro-Asiatic,Cushitic,9.685,47.728,Soares et al. 2012,10.1093/molbev/msr245,Lat/Long is in northern Somalia; Sample is Somali refugees in Yemen
+SnSenegaleseKS,Senegalese,49,16030-16490;50-600,Senegal,Western Africa,Niger-Congo,Mixed,14.77,-17.324,Stefflova et al. 2009,10.1371/journal.pone.0007842,"Reduced HVR2 range from 710 stated in paper to 600 because data file states that ""some samples of L2c haplogroup were not genotyped up to position 680"""
+CmBakolaST,Bakola,30,16024-16569;1-576,Cameroon,Central Africa,Niger-Congo,Bantu,2.66636,10.05848,Tishkoff et al. 2007,10.1093/molbev/msm155,Lat/Long are approximate from map in paper
+ZaXunKhweST,!Xun/Khwe,16,16024-16569;1-576,South Africa,Southern Africa,Khoesan,Khoe,-28.70159,24.05839,Tishkoff et al. 2007,10.1093/molbev/msm155,"Lat/Long are approximate from map in paper; San_43, San_67 sequences are short - dropped"
+TzBurungeST,Burunge,37,16024-16569;1-576,Tanzania,Eastern Africa,Afro-Asiatic,Cushitic,-4.70635,36.18485,Tishkoff et al. 2007,10.1093/molbev/msm155,Lat/Long are approximate from map in paper; tzbg031 replaced with data from complete mtgenome; tzbg030 dropped
+TzDatogaST,Datoga,38,16024-16569;1-576,Tanzania,Eastern Africa,Nilo-Saharan,Eastern Sudanic,-4.01915,37.05103,Tishkoff et al. 2007,10.1093/molbev/msm155,Lat/Long are approximate from map in paper; tzdt045 dropped; tzdt051 added missing ACA to end
+TzHadzaST,Hadza,76,16024-16569;1-576,Tanzania,Eastern Africa,Khoesan,Hadza,-3.79543,34.6093,Tishkoff et al. 2007,10.1093/molbev/msm155,"Lat/Long are approximate from map in paper; tzhz081 replaced with data from complete mtgenome; tzhz006 added missing TTC to beginning; tzhz108, tzhz130, tzhz131 dropped"
+TzSukumaST,Sukuma,11,16024-16569;1-576,Tanzania,Eastern Africa,Niger-Congo,Bantu,-3.42024,33.64868,Tishkoff et al. 2007,10.1093/molbev/msm155,Lat/Long are approximate from map in paper
+TzSandaweST,Sandawe,82,16024-16569;1-576,Tanzania,Eastern Africa,Khoesan,Sandawe,-5.15786,35.60257,Tishkoff et al. 2007,10.1093/molbev/msm155,Lat/Long are approximate from map in paper
+TzTuruST,Turu,29,16024-16569;1-576,Tanzania,Eastern Africa,Niger-Congo,Bantu,-4.43408,35.08789,Tishkoff et al. 2007,10.1093/molbev/msm155,Lat/Long are approximate from map in paper; tztr001 replaced with data from complete mtgenome
+MgMerinaST,Merina,9,16022-16421,Madagascar,Eastern Africa,Non-African,Non-African,-18.911,47.527,Tofanelli et al. 2009,10.1093/molbev/msp120,Lat/Long approximate based on map and description in paper
+MgAntandroyST,Antandroy,59,16022-16421,Madagascar,Eastern Africa,Non-African,Non-African,-25.171,45.087,Tofanelli et al. 2009,10.1093/molbev/msp120,Lat/Long approximate based on map and description in paper
+MgAntanosyST,Antanosy,54,16022-16421,Madagascar,Eastern Africa,Non-African,Non-African,-24.601,46.506,Tofanelli et al. 2009,10.1093/molbev/msp120,Lat/Long approximate based on map and description in paper
+MgAntaisakaST,Antaisaka,11,16022-16421,Madagascar,Eastern Africa,Non-African,Non-African,-24.261,47.219,Tofanelli et al. 2009,10.1093/molbev/msp120,Lat/Long approximate based on map and description in paper
+StAngolaresMT,Angolares,30,16051-16390;73-340,Sao Tome and Principe,Central Africa,Non-African,Non-African,0.134,6.648,Trovoada et al. 2004,10.1046/j.1529-8817.2003.00070.x,Lat/Long are approximate
+StForrosMT,Forros,35,16051-16390;73-340,Sao Tome and Principe,Central Africa,Non-African,Non-African,0.321,6.69,Trovoada et al. 2004,10.1046/j.1529-8817.2003.00070.x,Lat/Long are approximate
+StTongasMT,Tongas,38,16051-16390;73-340,Sao Tome and Principe,Central Africa,Non-African,Non-African,0.319,6.563,Trovoada et al. 2004,10.1046/j.1529-8817.2003.00070.x,Lat/Long are approximate
+CmTikarKV,Tikar speakers,34,16023-16380,Cameroon,Central Africa,Niger-Congo,South-Volta,6.083,11.5,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+CmBamunKV,Bamun speakers,107,16023-16380,Cameroon,Central Africa,Niger-Congo,South-Volta,5.717,10.917,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+CmAghemKV,Aghem speakers,115,16023-16380,Cameroon,Central Africa,Niger-Congo,South-Volta,6.383,10.067,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+GhAkan1KV,Akan speakers,20,16023-16380,Ghana,Western Africa,Niger-Congo,South-Volta,5.817,-2.817,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+GhAkan2KV,Akan speakers,51,16023-16380,Ghana,Western Africa,Niger-Congo,South-Volta,6.167,-0.55,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+GhAkan3KV,Akan speakers,21,16023-16380,Ghana,Western Africa,Niger-Congo,South-Volta,6.333,-2.267,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+GhAkan4KV,Akan speakers,87,16023-16380,Ghana,Western Africa,Niger-Congo,South-Volta,5.817,-2.817,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+GhEweKV,Ewe speakers,59,16023-16380,Ghana,Western Africa,Niger-Congo,South-Volta,6.6,0.467,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgAnnang1KV,Annang speakers,37,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,5.05,7.717,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgAnnang2KV,Annang speakers,26,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,5.05,7.717,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgAnnang3KV,Annang speakers,44,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.992,7.758,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgEfik1KV,Efik speakers,49,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,5.167,7.983,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgEfik2KV,Efik speakers,48,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.908,8.442,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgEfik3KV,Efik speakers,48,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.95,8.317,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgEjagham1KV,Ejagham speakers,17,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.95,8.317,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgEjagham2KV,Ejagham speakers,28,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.95,8.317,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgEjagham3KV,Ejagham speakers,38,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.95,8.317,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgEjagham4KV,Ejagham speakers,50,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,5.35,8.35,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIbibio1KV,Ibibio speakers,36,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.833,7.9,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIbibio2KV,Ibibio speakers,50,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.717,7.867,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIbibio3KV,Ibibio speakers,50,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.62,7.65,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIbibio4KV,Ibibio speakers,28,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.69,7.815,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIbibio5KV,Ibibio speakers,50,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,5.133,7.933,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIbibio6KV,Ibibio speakers,48,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,5.042,7.842,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIbibio7KV,Ibibio speakers,48,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,5.1,7.967,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIbibio8KV,Ibibio speakers,50,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.633,7.85,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIbibio9KV,Ibibio speakers,49,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.783,7.883,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIbibio10KV,Ibibio speakers,50,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,5.133,7.967,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIbibio11KV,Ibibio speakers,50,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,5.233,7.933,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIgbo1KV,Igbo speakers,96,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.95,8.317,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgOron1KV,Oron speakers,28,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.833,8.233,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgOron2KV,Oron speakers,70,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,4.75,8.25,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIgbo2KV,Igbo speakers,54,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,6.433,7.483,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+NgIgbo3KV,Igbo speakers,50,16020-16400,Nigeria,Western Africa,Niger-Congo,South-Volta,6.117,7.517,Veeramah et al. 2010,10.1186/1471-2148-10-92,
+BwKungLV,!Kung,25,16024-16384;40-383,Botswana,Southern Africa,Khoesan,!Kung,-19.44886,21.42416,Vigilant et al. 1991,10.1126/science.1840702,Lat/Long are approximate based on Ethnologue maps; dropped sequences with more than 10 Ns
+BwHereroLV,Herero,6,16024-16384;40-383,Botswana,Southern Africa,Niger-Congo,Bantu,-20.93361,21.77573,Vigilant et al. 1991,10.1126/science.1840702,Lat/Long are approximate based on Ethnologue maps; dropped sequences with more than 10 Ns
+TzHadzaLV,Hadza,11,16024-16384;40-383,Tanzania,Eastern Africa,Khoesan,Hadza,-3.79542,34.6094,Vigilant et al. 1991,10.1126/science.1840702,Lat/Long are approximate based on Ethnologue maps; dropped sequences with more than 10 Ns
+CdMbutiLV,Mbuti,19,16024-16384;40-383,Democratic Republic of the Congo,Central Africa,Niger-Congo,Bantu,1.67684,29.52106,Vigilant et al. 1991,10.1126/science.1840702,Lat/Long are approximate based on Ethnologue maps; dropped sequences with more than 10 Ns
+CfBiakaLV,Biaka,17,16024-16384;40-383,Central African Republic,Central Africa,Niger-Congo,Bantu,4.30836,17.708,Vigilant et al. 1991,10.1126/science.1840702,Lat/Long are approximate based on Ethnologue maps; dropped sequences with more than 10 Ns
+NeSonghaiEW,Songhai,10,16090-16365,Niger,Western Africa,Nilo-Saharan,Songhay,13.94348,0.6427,Watson et al. 1997,1914737,Lat/Long approximate based on map in Watson et al. (1996)
+NeTuaregEW,Tuareg,23,16090-16365,Niger,Western Africa,Afro-Asiatic,Berber,17.42951,5.33379,Watson et al. 1997,1914737,Lat/Long approximate based on map in Watson et al. (1996)
+NgYorubaEW,Yoruba,33,16090-16365,Nigeria,Western Africa,Niger-Congo,South-Volta,9.92041,4.01544,Watson et al. 1997,1914737,Lat/Long approximate based on map in Watson et al. (1996)
+NgHausaEW,Hausa,20,16090-16365,Nigeria,Western Africa,Afro-Asiatic,Chadic,11.25796,5.89005,Watson et al. 1997,1914737,Lat/Long approximate based on map in Watson et al. (1996)
+NgFulbeEW,Fulbe,60,16090-16365,Nigeria,Western Africa,Niger-Congo,Atlantic,10.22176,9.60343,Watson et al. 1997,1914737,Lat/Long approximate based on map in Watson et al. (1996)
+NgKanuriEW,Kanuri,14,16090-16365,Nigeria,Western Africa,Nilo-Saharan,Saharan,11.98971,12.72354,Watson et al. 1997,1914737,Lat/Long approximate based on map in Watson et al. (1996)
+KeTurkanaEW,Turkana,37,16090-16365,Kenya,Eastern Africa,Nilo-Saharan,Eastern Sudanic,3.945178,35.5751,Watson et al. 1997,1914737,Lat/Long approximate based on map in Watson et al. (1996)
+KeKikuyuEW,Kikuyu,24,16090-16365,Kenya,Eastern Africa,Niger-Congo,Bantu,-0.10819,37.03375,Watson et al. 1997,1914737,Lat/Long approximate based on map in Watson et al. (1996)
+KeSomaliEW,Somali,27,16090-16365,Kenya,Eastern Africa,Afro-Asiatic,Cushitic,2.54121,39.88175,Watson et al. 1997,1914737,Lat/Long approximate based on map in Watson et al. (1996)

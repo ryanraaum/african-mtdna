@@ -1,0 +1,7 @@
+Eastern Pygmies,4 (2),5 (3),68 (2),73 (2)
+Western Pygmies,2 (3),48 (2)
+!Kung,7 (6),14 (4),20 (2)
+Herero,55 (19),105 (2)
+Hadza,64 (10),83 (5)
+Yoruba,26 (2),63 (1)
+Papua New Guinea,135 (4)

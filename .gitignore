@@ -62,3 +62,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Prohibited from public distribution
+misc/
+
+# ipython checkpoints
+.ipynb_checkpoints/
